@@ -1,0 +1,34 @@
+body {
+    /*color de fondo*/
+    background-color: #ded0a1;
+     /*color de las letras*/
+     color: #4f5479;
+     font-family: 'Dongle', sans-serif;
+     font-family: 'Secular One', sans-serif;
+}
+
+p {
+    color: #232a4b;
+}
+/*agregar lo del cambio de color especifico de titulos*/
+
+/*si no lleva punto afecta todos los elementos*/
+/*IMAGENES CON LAS QUE TRABAJE EN LA PAGINA ORIGINAL
+
+img {
+    width: 250px; 
+    
+}
+.img-2{
+    width: 500px;
+}
+
+.img-5 {
+    width: 200px ;
+}  */
+
+img{
+    width: 250px;
+    
+}
+/*fuentes externas */
